@@ -1,1 +1,2 @@
 # IMDB-movie-classification
+Using a kaggle dataset of 50,000 imdb reviews, we attempted to train a model that could classify whether a review was positive or negative. We tried several traditional classification models, culminating in an LSTM-RNN and a Convolutional Neural Network. The best accuracy we were able to achieve was 87.4%. This project was the final project of ECON 187 taugh by Dr. Randall Rojas at UCLA 
